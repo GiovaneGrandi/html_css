@@ -1,2 +1,2 @@
 # html_css
- Repositório com meus exercícios de HTML e CSS
+ Repositório com meu site de uma barbearia feito com base nas minhas aulas de HTML e CSS
